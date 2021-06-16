@@ -1,4 +1,4 @@
-## Auto Encoder with mnist dataset in Keras
+
 
 ```python
 import keras
